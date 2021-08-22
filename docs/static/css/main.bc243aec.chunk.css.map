@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,UACC,wBAED,CAEA,GACE,UACF,CAEA,YACE,qBACF","file":"main.bc243aec.chunk.css","sourcesContent":["html, body {\n background-color: #21232A;\n\n}\n\nhr {\n  color: white;\n}\n\n.card-style{\n  width: 18rem !important;\n}\n\n"]}
